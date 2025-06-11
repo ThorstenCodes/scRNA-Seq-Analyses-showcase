@@ -2,3 +2,4 @@
 GSE171524_RAW
 *.h5ad
 .ipynb_checkpoints/
+*.pt
